@@ -61,5 +61,8 @@
 매출액이 수신할 수 있는 메세지
 														
 	총 매출액이 1만원이 넘을 때 라떼를 만들 수 있다.					
-	총 매출액이 5만원이 넘을 때 스무디를 만들 수 있다.					
+	총 매출액이 5만원이 넘을 때 스무디를 만들 수 있다.		
+	
+![유스케이스 다이어그램 drawio](https://user-images.githubusercontent.com/122511826/214019287-4a2b31dd-5350-4681-ab67-cff344ae7e21.png)
+![클래스 다이어그램 drawio](https://user-images.githubusercontent.com/122511826/214019302-ade8eded-6f52-448e-8fb4-9bc7880745b3.png)
 						
